@@ -1,0 +1,47 @@
+body{
+    /*font-family: 'Open Sans', sans-serif;*/
+    text-align: center;
+    color: #252a34;
+}
+/*head section*/
+.head{
+    text-align: center;
+    background-color: #252a34;
+    color: white;
+}
+
+hr{
+    background-color: black;
+}
+
+/*white section*/
+img{
+    border-radius: 100%;
+}
+
+table{
+    margin: auto;
+    background-color: #eeeeee;
+}
+
+.section-description{
+    color: gray;
+}
+
+
+/*foot section*/
+#footer{
+    background-color: #252a34;
+    color: white;
+}
+
+#footer span{
+     font-size: 5rem;
+     margin:0 1%; 
+
+}
+
+#footer p{
+    color: gray;
+}
+
